@@ -1,4 +1,4 @@
-###to run
+### to run
 
 `cd envs/models/Diana7_Magnet/`
 
